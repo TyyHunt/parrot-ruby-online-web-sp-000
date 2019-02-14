@@ -5,5 +5,4 @@ def parrot(say = "Squawk!")
   "#{say}"
 end
 
-parrot
 parrot("Pretty bird!")
